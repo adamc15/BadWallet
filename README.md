@@ -1,4 +1,5 @@
-![bg-1003](https://user-images.githubusercontent.com/80361607/112529554-c628f980-8d7b-11eb-9adc-795ccfd82668.png width="100%" height="65vh")
+<img src="https://user-images.githubusercontent.com/80361607/112529554-c628f980-8d7b-11eb-9adc-795ccfd82668.png" width="100%" height="65vh">
+
 
 ### OUR MISSION
 The mission is to build and maintain an open-source blockchain protocol that enables recycling industries, manufacturers, and individuals to track and document information technology (IT) assets from creation through their end-of-life.
