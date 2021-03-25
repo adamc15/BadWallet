@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/80361607/112529554-c628f980-8d7b-11eb-9adc-795ccfd82668.png" width="100%" height="500px">
+<img src="https://user-images.githubusercontent.com/80361607/112529554-c628f980-8d7b-11eb-9adc-795ccfd82668.png" width="90%" height="500px">
 
 
 ### OUR MISSION
