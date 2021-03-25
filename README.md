@@ -1,12 +1,11 @@
-<img src="https://user-images.githubusercontent.com/80361607/112529554-c628f980-8d7b-11eb-9adc-795ccfd82668.png" width="100%" height="600px">
-
-
 ### OUR MISSION
 The mission is to build and maintain an open-source blockchain protocol that enables recycling industries, manufacturers, and individuals to track and document information technology (IT) assets from creation through their end-of-life.
 
 The stewards of the system architecture is the OBADA Foundation, a 501c(6) organization whose members consist of the key organizations in the electronics recycling industry, such as trade associations, trading networks, and the providers of key industry software.
 
 OBADA was incorporated in 2019 as a nonprofit corporation in the blockchain-friendly U.S. State of Wyoming. OBADA has no stock, no profits given to individuals, and no private inurement.
+
+![bg-1003](https://user-images.githubusercontent.com/80361607/112531325-d0e48e00-8d7d-11eb-9dee-caee65c4ed26.png)
 
 ### VISION
 To enable information technology supply chain participants to:
