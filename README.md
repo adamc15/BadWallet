@@ -1,10 +1,3 @@
----
-layout: default
-title: Our Mission
-nav_order: 1
-has_children: true
----
-
 ### OUR MISSION
 The mission is to build and maintain an open-source blockchain protocol that enables recycling industries, manufacturers, and individuals to track and document information technology (IT) assets from creation through their end-of-life.
 
