@@ -173,3 +173,5 @@ _I,     , certify that I am Secretary of OBADA, a Wyoming nonstock corporation, 
 DATED:
 
 Secretary
+
+## | [Previous: Corporate Documents](corporatedocuments) |         | [Next: Incorporation Documents](incorporationdocs) |
