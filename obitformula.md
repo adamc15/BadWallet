@@ -1,5 +1,4 @@
 ## 1.1.1 Obit Formula
-------------------------
 
 ### Obit Formula
 
