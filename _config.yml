@@ -11,7 +11,7 @@ has_children: true
 ---
 
 ---
-layout: default
+layout: nested
 title: tableofcontents.md
 parent: theobadastandard.md
 nav_order: 2
