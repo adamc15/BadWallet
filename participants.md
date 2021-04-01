@@ -21,42 +21,42 @@ _Industry Stakeholders have a functional role in the network._
 
 >Registrars perform the permissioning and identity management function in the blockchain.  They hold the "member lists", validate user identities, manage user permissions, and create a layer of anonymity between users and their blockchain transactions.
 
-#### Trade Associations
++ **Trade Associations**
   + AscdiNatd
   + Electronics Recycling.org
   + E-Reuse Services
   + ITAD Coalition
   + RLA
-#### Commercial Membership Organizations 
++ **Commercial Membership Organizations**
   + ERN
   + All the Trading Platforms, etc..
-#### Certification Bodies
++ **Certification Bodies**
   + SERI
 
 ### Authorities
 > Existing industry organizations who create and enforce "rules".
-#### Compliance
++ **Compliance**
   + ASCDI (anti-counterfeiting)
   + SERI (recycling)
 
 ### Technology Providers
 > Technology companies that manage and host nodes, storage, infrastructure, and other blockchain related services, to physically run the network.
   
-#### Blockchain Companies
++ **Blockchain Companies**
   + Atlas City
   + Everledger
-#### Other TBD
++ **Other TBD**
 
 ### Application Software Providers
 >Application Software record proof of device events like "transfer, repair, data sanitize, and dispose" to the blockchain, as well as provide the asset management, financial, and supply chain tools for managing the devices.  Application software is the gateway between users and the blockchain.
-+ B2B
++ **B2B**
   + Brokerbin
   + TechBroker
   + TBS
   + Tradeloop
-+ B2C
++ **B2C**
   + Backmarket
-+ ERP
++ **ERP**
   + Inventory Management (by device)
     + Cloud Cover
     + USODY
@@ -65,12 +65,12 @@ _Industry Stakeholders have a functional role in the network._
     + Razor
   + Recycling Management Software (by weight)
     + none so far
-+ Data Sanitization & Diagnostics 
++ **Data Sanitization & Diagnostics**
   + USODY
   + TechSpec
   + Eurosoft
   + PC-Doctor
-+ Data Specialists (Data Enrichment & Data Analysis)
++ **Data Specialists** (Data Enrichment & Data Analysis)
   + Apkudo
   + Clearstream Solutions
   + Informission
