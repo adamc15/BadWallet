@@ -5,7 +5,7 @@
 ### C.  The OBADA Standard
  + Architectures, Frameworks, and Methods
 
-#### 1.0. Information Architecture
+### 1.0. Information Architecture
   + 1.0. Overall Methodology 
   + 1.1 OBIT Token Methodology
     + 1.1.0 Explainer
@@ -23,11 +23,11 @@
     + 1.3.3 DID Elaborated Site Map method
   + 1.4 Methods and Function Summary
 
-#### 2.0 Custom DID Method
+### 2.0 Custom DID Method
   + 2.0 Methodology
   + 2.1 Technical Spec - see appendix
 
-#### 3.0 Application Architecture
+### 3.0 Application Architecture
   + 3.0 Methodology
   + 3.1 DID Registry App Framework
     + 3.1.1 Methodology
@@ -43,14 +43,14 @@
     + 3.3.2 Registered Agent System
     + 3.3.3 Network Fee System
 
-#### 4.0 Systems Architecture
+### 4.0 Systems Architecture
   + 4.0 Overview
   + 4.1 Node Stack
   + 4.2 “DID Registry” Systems Framework
   + 4.3 DLT Core Replica
   + 4.4. DLT Core (DHT Cluster)    
 
-#### 5.0. Appendix
+### 5.0. Appendix
   + 5.1 Technical Docs
   + 5.2 Explainer Docs    
 
