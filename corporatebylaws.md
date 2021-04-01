@@ -174,4 +174,4 @@ DATED:
 
 Secretary
 
-## | [Previous: Corporate Documents](corporatedocuments) |         | [Next: Incorporation Documents](incorporationdocs) |
+## | [Previous: Corporate Documents](corporatedocuments) |   | [Next: Incorporation Documents](incorporationdocs) |
