@@ -10,11 +10,11 @@ The name of the organization is OBADA, the Open Blockchain for Asset Disposition
 
 OBADA is a membership organization. This corporation shall have three classes of membership, two of which are voting memberships: (i) Industry Stakeholders; (ii) Ecosystem Stewards; and (iii) General Participants. General Participants may vote in committees but not in the Annual meeting as described below. General Participants may also sit on the Advisory Board as described below. Only voting members are eligible for Committee chairs, Directors or Officer positions.
 
-#### 2.1 Industry Stakeholders. The Industry Stakeholders shall be the primary stakeholders of recycling ecosystems, consisting of commercial individuals and entities that have a direct effect on (a) recycling ecosystem(s). These entities engage in or support the production, use, sale, or standardization of all OBADA Compliant Networks, based on open source-based technologies. An Industry Stakeholder shall have voting rights, and shall contribute resources and/or pay the annual membership dues identified on Schedule A to these Bylaws (the “Membership Dues Schedule”). An Industry Stakeholder shall cease to be a member in the event of its resignation or expulsion from this corporation.
+<bold>2.1 Industry Stakeholders.</bold> The Industry Stakeholders shall be the primary stakeholders of recycling ecosystems, consisting of commercial individuals and entities that have a direct effect on (a) recycling ecosystem(s). These entities engage in or support the production, use, sale, or standardization of all OBADA Compliant Networks, based on open source-based technologies. An Industry Stakeholder shall have voting rights, and shall contribute resources and/or pay the annual membership dues identified on Schedule A to these Bylaws (the “Membership Dues Schedule”). An Industry Stakeholder shall cease to be a member in the event of its resignation or expulsion from this corporation.
 
-#### 2.2 Ecosystem Stewards. The Ecosystem Stewards shall be the secondary stakeholders of recycling ecosystems, consisting of individuals and entities that have indirect interest or influence on (a) recycling ecosystem(s). These entities govern the specification, design, and operation of all OBADA Compliant Networks, based on open source-based technologies. A Stakeholder shall have voting rights, and shall contribute resources and/or pay the annual membership dues identified on Schedule A to these Bylaws (the “Membership Dues Schedule”). An Ecosystem Steward shall cease to be a member in the event of its resignation or expulsion from this corporation.
+<bold>2.2 Ecosystem Stewards.</bold> The Ecosystem Stewards shall be the secondary stakeholders of recycling ecosystems, consisting of individuals and entities that have indirect interest or influence on (a) recycling ecosystem(s). These entities govern the specification, design, and operation of all OBADA Compliant Networks, based on open source-based technologies. A Stakeholder shall have voting rights, and shall contribute resources and/or pay the annual membership dues identified on Schedule A to these Bylaws (the “Membership Dues Schedule”). An Ecosystem Steward shall cease to be a member in the event of its resignation or expulsion from this corporation.
 
-#### 2.3 General Participants. General Participants shall be any entity or individual, including commercial and nonprofit organizations, research institutions, government entities, consulting firms or other industry or non-industry service providers that utilize or engage with any OBADA Compliant Network. General Participants shall have no voting rights. General Participants may be members of committees and may vote on committee issues. A General Participant may be required to pay for documents or services that are otherwise provided to Stakeholders or Stewards.
+<bold>2.3 General Participants.</bold> General Participants shall be any entity or individual, including commercial and nonprofit organizations, research institutions, government entities, consulting firms or other industry or non-industry service providers that utilize or engage with any OBADA Compliant Network. General Participants shall have no voting rights. General Participants may be members of committees and may vote on committee issues. A General Participant may be required to pay for documents or services that are otherwise provided to Stakeholders or Stewards.
 
 ## ARTICLE II - MEETINGS
 
@@ -52,13 +52,13 @@ Nominations for chairpersons shall be made at any duly called meeting of a said 
 
 Four such committees are defined in these by-laws as essential:
 
-#### 7.1 The Technology Working Group: shall define and maintain all technical specifications related to the OBADA standard.
+<bold>7.1 The Technology Working Group:</bold> shall define and maintain all technical specifications related to the OBADA standard.
 
-#### 7.2 The Marketing Working Group: shall provide market inputs into the Technology Group and shall develop promotional opportunities for the acceptance and implementations of OBADA compliant blockchains.
+<bold>7.2 The Marketing Working Group:</bold> shall provide market inputs into the Technology Group and shall develop promotional opportunities for the acceptance and implementations of OBADA compliant blockchains.
 
-#### 7.3 The Advisory Board: shall advise the Board of Directors and the Corporate Officers on issues pertinent to the work of the Corporation. The Advisory Board shall be chaired by the President/Chairman of the Corporation.
+<bold>7.3 The Advisory Board:</bold> shall advise the Board of Directors and the Corporate Officers on issues pertinent to the work of the Corporation. The Advisory Board shall be chaired by the President/Chairman of the Corporation.
 
-#### 7.4 ”Node Holders”: shall advise the Board of Directors regarding issues related to the technology or management of OBADA compliant blockchains. This committee is chaired by the Technical Working Group chairperson. As an advisory group, the Node Holders may choose to meet separately from the Technical Working Group under the moderation of the chair of the Technical Working Group who shall represent their issues and recommendations to the entire Board of Directors.
+<bold>7.4 ”Node Holders”:</bold> shall advise the Board of Directors regarding issues related to the technology or management of OBADA compliant blockchains. This committee is chaired by the Technical Working Group chairperson. As an advisory group, the Node Holders may choose to meet separately from the Technical Working Group under the moderation of the chair of the Technical Working Group who shall represent their issues and recommendations to the entire Board of Directors.
 
 ## ARTICLE III - DIRECTORS
 
@@ -116,11 +116,11 @@ The Board may authorize the advance or reimbursement of actual reasonable expens
 
 The officers of the organization shall be a President, a Treasurer, and a Secretary.
 
-#### 1.1 President/Chairman. The President shall be the chief executive officer and shall preside at all meetings of the Board of Directors and its Executive Committee, if such a committee is created by the board, the President/Chairman shall also chair the Advisory Board as defined above.
+<bold>1.1 President/Chairman.</bold> The President shall be the chief executive officer and shall preside at all meetings of the Board of Directors and its Executive Committee, if such a committee is created by the board, the President/Chairman shall also chair the Advisory Board as defined above.
 
-#### 1.2 Secretary. The Secretary shall give notice of all meetings of the Board of Directors and Executive Committee, shall keep an accurate list of the directors, and shall have the authority to certify any records or copies of records, as the official records of the organization The Secretary shall maintain the minutes of the Board of Directors' meetings and all committee meetings.
+<bold>1.2 Secretary.</bold> The Secretary shall give notice of all meetings of the Board of Directors and Executive Committee, shall keep an accurate list of the directors, and shall have the authority to certify any records or copies of records, as the official records of the organization The Secretary shall maintain the minutes of the Board of Directors' meetings and all committee meetings.
 
-#### 1.3 Treasurer/CFO. The Treasurer shall be responsible for conducting the financial affairs of the organization as directed and authorized by the board of Directors and Executive Committee, if any, and shall make reports of corporate finances as required, but no less often than at each meeting of the Board of Directors and Executive Committee.
+<bold>1.3 Treasurer/CFO.</bold> The Treasurer shall be responsible for conducting the financial affairs of the organization as directed and authorized by the board of Directors and Executive Committee, if any, and shall make reports of corporate finances as required, but no less often than at each meeting of the Board of Directors and Executive Committee.
 
 ### Section 2. Election and Term of office.
 
