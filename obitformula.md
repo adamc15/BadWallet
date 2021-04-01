@@ -21,7 +21,7 @@ The following instructions are for creating a general purpose OBIT DID for any c
 appropriate identifiers already. pre-established identifiers To create an OBIT-DID:
 1. serial_hash = sha256(serial_number) 2. obit = sha256(manufacturer + part_number + serial_hash)
 
-    <code>OBIT asset hash = SHA-256(mp(SHA-256(sn))</code>
+    >OBIT asset hash = SHA-256(mp(SHA-256(sn))
 
 1. Prepend 4 character “Obit Formula Version”
   1. See version list.
@@ -32,7 +32,7 @@ appropriate identifiers already. pre-established identifiers To create an OBIT-D
 
 The final OBIT-DID, with versioning and a checksum.
 
-<code>OBIT-DID=version-assetHash-checksum</code>
+>OBIT-DID=version-assetHash-checksum
 
 Examples:
 + MPSN hash: ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785
@@ -69,7 +69,7 @@ Other asset classes have been discussed but none have been approved.
   - Use CLEI codes (14 digit unique codes).  Needs ratification
 
 ### Obit Formula Versions
-  <code>(insert version list and text from versions slide)</code>
+  >(insert version list and text from versions slide)
 
 ### Manufacturer Identifier
 
