@@ -56,4 +56,4 @@ To promote and drive the ITAD and E-Recycling industry toward a digital, sustain
 * Create and support technical and non-technical partnerships and sustainability initiatives to boost digital inclusion and environmental effort at the national and worldwide level.
 
 
-### [Next: The OBADA Standard](/standard)
+## | [Next: The OBADA Standard](theobadastandard) | 
