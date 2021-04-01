@@ -3,7 +3,7 @@
 ### A. Preface
 ### B.  Introduction
 ### C.  The OBADA Standard
-        Architectures, Frameworks, and Methods
+ + Architectures, Frameworks, and Methods
 
 #### 1.0. Information Architecture
   + 1.0. Overall Methodology 
