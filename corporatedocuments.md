@@ -15,7 +15,5 @@ Here are the articles in this section:
     <td><a href="/licensing">Licensing</a></td>
   </tr>
   </table>
-  </div>
   
-  
-  ## | [Previous: Participants](participants) |  | [Next: Corporate Bylaws](corporatebylaws) |
+ <h4> | <a href="/participants">Previous: Participants</a> |  | <a href="/corporatebylaws">Next: Corporate Bylaws</a> |</h4>
