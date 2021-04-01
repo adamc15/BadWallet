@@ -16,4 +16,4 @@ Here are the articles in this section:
   </tr>
   </table>
   
- <h2> | <a href="/participants">Previous: Participants</a> |  | <a href="/corporatebylaws">Next: Corporate Bylaws</a> |</h4>
+## | [Previous: Participants](participants) |  | [Next: Corporate Bylaws](corporatebylaws) |
