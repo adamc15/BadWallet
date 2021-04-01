@@ -4,15 +4,15 @@ Here are the articles in this section:
 
 <table style="width:100%">
     <tr>
-      <td>Corporate Bylaws</td>
-      <td>Incorporation Documents</td>
+        <td><a href="/corporatebylaws">Corporate Bylaws</a></td>
+      <td><a href="/incorporationdocs">Incorporation Documents</a></td>
     <tr>
       <td></td>
       <td></td>
   </tr>
   <tr>
-    <td>Code of Conduct</td>
-    <td>Licensing</td>
+    <td><a href="/codeofconduct">Code of Conduct</a></td>
+    <td><a href="/licensing">Licensing</a></td>
   </tr>
   </table>
   
