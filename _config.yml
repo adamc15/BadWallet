@@ -1,3 +1,18 @@
 remote_theme: pmarsceill/just-the-docs
 title: OBADA
 description: The Open Blockchain for Asset Disposition Architecture
+
+
+---
+layout: default
+title: The OBADA Standard
+nav_order: 2
+has_children: true
+---
+
+---
+layout: default
+title: Table of Contents
+parent: The OBADA Standard
+nav_order: 3
+---
