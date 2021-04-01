@@ -101,3 +101,6 @@ To report incidents or to appeal reports of incidents, send email to Rohi Sukhia
 ### Credits
 
 This code is based on the [W3C’s Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc) with some additions from the [Cloud Foundry‘s](https://www.cloudfoundry.org/) Code of Conduct.
+
+
+## | [Previous: Incorporation Documents](incorpoationdocs) |         | [Next: Licensing](licensing) |
