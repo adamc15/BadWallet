@@ -1,3 +1,8 @@
+---
+title: Licensing
+nav_order: 10
+parent: Corporate Documents 
+---
 ## Licensing
 
 Obada is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Obada Foundation, including leaders in recycling, circular economies, IoT, supply chain, manufacturing and technology.
