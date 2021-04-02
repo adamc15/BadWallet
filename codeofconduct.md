@@ -1,3 +1,8 @@
+---
+title: Code of Conduct
+nav_order: 9
+parent: Corporate Documents 
+---
 ## Code of Conduct
 
 Obada is a collaborative project. It is an open source and open community project where participants choose to work together, and in that process experience differences in language, location, nationality, and experience. In such a diverse environment, misunderstandings and disagreements happen, which in most cases can be resolved informally. In rare cases, however, behavior can intimidate, harass, or otherwise disrupt one or more people in the community, which Obada will not tolerate.
