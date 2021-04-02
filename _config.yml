@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: OBADA
 description: The Open Blockchain for Asset Disposition Architecture
-search_enabled: false
+search_enabled: true
 footer_content: "Copyright &copy; 2017-2021 Open Blockchain for Asset Disposition Alliance (OBADA)"
 
 
