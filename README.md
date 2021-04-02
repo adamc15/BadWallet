@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: Our Mission
 ---
 
