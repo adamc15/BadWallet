@@ -1,7 +1,7 @@
 ---
 title: Table of Contents
 nav_order: 3
-parent: The Obada Standard 
+parent: The OBADA Standard 
 ---
 ## Table of Contents
 
