@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker
+title: Table of Contents
 nav_order: 3
 parent: The Obada Standard 
 ---
