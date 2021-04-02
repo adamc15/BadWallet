@@ -1,3 +1,8 @@
+---
+title: Corporate Bylaws
+nav_order: 7
+parent: Corporate Documents 
+---
 ## Corporate Bylaws
 
 ## ARTICLE I - MEMBERSHIP
