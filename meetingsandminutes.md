@@ -1,3 +1,7 @@
+---
+title: Meeting Schedule & Minutes
+nav_order: 11
+---
 ## Meeting Schedule & Minutes
 
 #### We meet evert month on the first Thursday at 12:00 pm EST.
