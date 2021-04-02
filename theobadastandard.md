@@ -1,6 +1,7 @@
 ---
 title: The OBADA Standard
 nav_order: 2
+has_children: true
 ---
 # The OBADA Standard
 
