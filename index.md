@@ -1,4 +1,5 @@
 ---
+title: Our Mission
 nav_order: 1
 ---
 ### OUR MISSION
