@@ -1,3 +1,8 @@
+---
+title: Incorporation Documents
+nav_order: 8
+parent: Corporate Documents 
+---
 ## Incorporation Documents
 
 + ### [OBADA Federal EIN](https://github.com/adamc15/adamc15.github.io/files/6246167/obada-ein.pdf)
