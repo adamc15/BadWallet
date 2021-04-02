@@ -1,3 +1,8 @@
+---
+title: Blogging Like a Hacker
+nav_order: 3
+parent: The Obada Standard 
+---
 ## Table of Contents
 
 ### A. Preface
