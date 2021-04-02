@@ -1,3 +1,8 @@
+---
+title: Corporate Documents
+nav_order: 6
+has_children: true
+---
 ## Corporate Documents
 
 Here are the articles in this section:
