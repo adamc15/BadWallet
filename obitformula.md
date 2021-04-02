@@ -1,7 +1,7 @@
 ---
 title: 1.1.1 Obit Formula
 nav_order: 4
-parent: The Obada Standard 
+parent: The OBADA Standard 
 ---
 ## 1.1.1 Obit Formula
 
