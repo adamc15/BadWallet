@@ -1,3 +1,7 @@
+---
+title: Participants
+nav_order: 5
+---
 ## Participants
 
 ### Summary
