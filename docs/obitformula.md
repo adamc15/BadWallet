@@ -120,4 +120,4 @@ Serial number must be entered exactly as provided by the manufacturer. Do not al
 ### .obada-standard/2-content-archive/1-information-architecture/1-obits/obit-formula
 
 
-## | [Previous: Table of Contents](tableofcontents) |         | [Next: Participants](Participants) |
+## | [Previous: Table of Contents](tableofcontents) |         | [Next: Participants](participants) |
