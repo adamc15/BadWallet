@@ -1,5 +1,6 @@
 ---
 title: Participants
+permalink: /participants
 nav_order: 5
 ---
 ## Participants
