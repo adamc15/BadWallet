@@ -1,6 +1,7 @@
 ---
 title: Unique Test
 nav_order: 10
+permalink: standardtest
 nav_exclude: true
 ---
 
