@@ -1,6 +1,7 @@
 ---
 title: Code of Conduct
 nav_order: 9
+permalink: codeofconduct
 parent: Corporate Documents 
 ---
 ## Code of Conduct
