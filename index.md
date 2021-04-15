@@ -2,7 +2,7 @@
 title: Our Mission
 nav_order: 1
 ---
-### OUR MISSION - [Read our Standard Here](../standards/test)
+### OUR MISSION - [Read our Standard Here](/standard/standardtest)
 The mission is to build and maintain an open-source blockchain protocol that enables recycling industries, manufacturers, and individuals to track and document information technology (IT) assets from creation through their end-of-life.
 
 The stewards of the system architecture is the OBADA Foundation, a 501c(6) organization whose members consist of the key organizations in the electronics recycling industry, such as trade associations, trading networks, and the providers of key industry software.
@@ -60,4 +60,4 @@ To promote and drive the ITAD and E-Recycling industry toward a digital, sustain
 * Create and support technical and non-technical partnerships and sustainability initiatives to boost digital inclusion and environmental effort at the national and worldwide level.
 
 
-## | [Next: The OBADA Standard](theobadastandard) | 
+## | [Next: The OBADA Standard](/docs/theobadastandard) | 
