@@ -1,6 +1,7 @@
 ---
 title: Test Folder Page
 nav_order: 12
+permalink: /canwedothis/testfolder
 nav_exclude: true
 ---
 
