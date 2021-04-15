@@ -61,3 +61,8 @@ To promote and drive the ITAD and E-Recycling industry toward a digital, sustain
 
 
 ## | [Next: The OBADA Standard](/docs/theobadastandard) | 
+
+
+[Test to a nest folder file](/docs/nested/newfiletest)
+
+[Jump to new directory](../canwedothis/testfolder)
