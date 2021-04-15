@@ -1,7 +1,6 @@
 ---
 title: Test Folder Page
 nav_order: 12
-permalink: testfolder
 nav_exclude: true
 ---
 
