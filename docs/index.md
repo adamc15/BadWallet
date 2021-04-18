@@ -1,6 +1,7 @@
 ---
 title: Corporate Documents
 nav_order: 6
+permalink: /docs/
 has_children: true
 ---
 ## Corporate Documents
