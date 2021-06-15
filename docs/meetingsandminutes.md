@@ -6,8 +6,7 @@ nav_order: 11
 
 #### We meet every month on the first Thursday at 12:00 pm EST.
 
-
-<iframe src="https://calendar.google.com/calendar/embed?src=bizops%40obada.io&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Yml6b3BzQG9iYWRhLmlv&amp;color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### AGENDA:
   - Updates from each of the sub-committees:
