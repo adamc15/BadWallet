@@ -13,7 +13,7 @@ Originally I had the idea of a sort of "wallet blacklist" where wallets deemed "
 
 ## Who are you?
 
-Me? I'm no one, seriously. Just a guy who got into crypto / blockchain back in 2017. I had this idea randomly, sat on it for four years and am now putting it together to hopefully help grow adoption. Many people STILL don't know what blockchain technology or cryptocurrency really is or does. We need to be ready to help them get in safely when they're ready. <br/>
+Me? I'm no one, seriously. Just a guy who got into crypto / blockchain back in 2017. I had this idea randomly, sat on it for four years and am now putting it together to hopefully help grow adoption. Many people STILL don't know what blockchain technology or cryptocurrency really is or does. We need to be ready to help them get in safely when they join us. <br/>
 
 ## What's your end game?
 
