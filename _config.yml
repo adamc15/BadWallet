@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: Bad Wallet
-description: The Open Blockchain for Asset Disposition Architecture
-search_enabled: true
+description: Finding and exposing the scammers hurting crypto adoption. 
+search_enabled: false
 footer_content: "Copyright &copy; 2021 Bad Wallet LLC"
 logo: "/images/bw-logo-1.png"
 
