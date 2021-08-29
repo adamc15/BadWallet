@@ -1,6 +1,7 @@
 ---
 title: About Us
-
+permalink: /about
+Nav_order: 2
 ---
 
 # Welcome to Bad Wallet! 
