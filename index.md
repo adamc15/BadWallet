@@ -1,5 +1,5 @@
 ---
-Title: Home
+Title: Mission
 Nav_order: 1
 ---
 
