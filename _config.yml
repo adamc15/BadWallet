@@ -5,6 +5,5 @@ search_enabled: false
 footer_content: "Copyright &copy; 2021 Bad Wallet LLC"
 logo: "/images/Bad-Wallet-words-dark-bg.png"
 color_scheme: dark
-
-
+text_skin: dark
 
