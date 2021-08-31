@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-slate
 title: Bad Wallet
 description: Finding and exposing the scammers hurting crypto adoption. 
 search_enabled: false
@@ -8,4 +8,3 @@ color_scheme: dark
 
 
 
-theme: jekyll-theme-slate
