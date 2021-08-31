@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: poole/poole
 title: Bad Wallet
 description: Finding and exposing the scammers hurting crypto adoption. 
 search_enabled: false
