@@ -1,8 +1,9 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 title: Bad Wallet
 description: Finding and exposing the scammers hurting crypto adoption. 
 search_enabled: false
 footer_content: "Copyright &copy; 2021 Bad Wallet LLC"
 logo: "/images/Bad-Wallet-words-dark-bg.png"
 color_scheme: dark
+
 
